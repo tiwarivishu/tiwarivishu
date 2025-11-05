@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/vtsadmin/ChatGPT-Desktop-Linux-VTS/main/assets/chatgpt-vts-logo.png" width="100" alt="VTS Logo">
 </p>
 
-<h1 align="center">👋 Hey, I'm Vishwanath Tiwari</h1>
+<h1 align="center">👋 Hey, I'm Vishwanath Tiwari (Vishu)</h1>
 <p align="center">
   🧠 Curious mind exploring Linux, web technologies, and system design  
   🖥️ Experienced in system administration and server management  
@@ -46,9 +46,12 @@ A growing collection of simple and useful online tools built to learn, explore, 
 
 ---
 
-### 🧠 About Me
-I’m a self-taught creator who enjoys exploring everything from Linux internals and automation to web design and WordPress customization.  
-My work blends curiosity with practicality - learning by doing and sharing what I learn.
+### 👤 About Me
+I’m Vishu Tiwari — systems admin, indie developer, and creator of [SHRTX](https://shrtx.in),  
+a privacy-first platform of browser tools and Linux utilities.
+
+> 🧾 Learn more → [shrtx.in/vishu](https://shrtx.in/vishu)
+
 
 ---
 
@@ -61,4 +64,4 @@ My work blends curiosity with practicality - learning by doing and sharing what 
 
 ---
 
-<p align="center">✨ <b>Maintained by Vishwanath Tiwari</b> - powered by curiosity, Linux, and coffee ☕🐧</p>
+<p align="center">✨ <b>Maintained by Vishwanath Tiwari</b> - powered by curiosity, Linux, and Tea ☕🐧</p>
