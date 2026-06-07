@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Vishwanath Tiwari (Vishu)** — a Linux-focused systems administrator and independent developer building lightweight, privacy-first browser utilities and developer-focused workflows.
+Hi, I’m **Vishwanath Tiwari (Vishu)** - a Linux-focused systems administrator and independent developer building lightweight, privacy-first browser utilities and developer-focused workflows.
 
 My work focuses on:
 
@@ -25,9 +25,10 @@ My work focuses on:
 
 I currently maintain:
 
-* **SHRTX** — a growing browser-native utility ecosystem
+* **SHRTX** A browser-native ecosystem of privacy-first tools, developer utilities, and lightweight workflows engineered for speed and modern usability.
 * Linux tooling projects
 * developer-focused workflows and experiments
+* Android utility and productivity applications
 
 ---
 
@@ -55,7 +56,7 @@ Built around:
 
 ---
 
-## 🧠 ChatGPT Desktop — VTS Edition
+## 🧠 ChatGPT Desktop - VTS Edition
 
 A lightweight Linux-native ChatGPT launcher that runs directly through your installed browser.
 
@@ -77,6 +78,23 @@ https://github.com/tiwarivishu/ChatGPT-Desktop-Linux-VTS
 
 ---
 
+# 📱 Android Development
+
+I also build lightweight Android applications focused on utility, productivity, and practical workflows.
+
+Current focus areas:
+
+* utility-focused applications
+* lightweight Android UX
+* productivity tooling
+* privacy-conscious mobile workflows
+* modern Android publishing workflows
+
+🔗 Google Play Developer Profile:
+https://play.google.com/store/apps/dev?id=8100166166179522255
+
+---
+
 # 🧰 Technology Focus
 
 ```txt
@@ -84,6 +102,7 @@ Linux Administration
 Infrastructure Engineering
 React / Next.js
 Node.js
+Android Development
 Browser-Native Applications
 Automation
 SEO Systems
@@ -110,6 +129,13 @@ Privacy-Focused Tooling
 * Browser-native tooling
 * UX systems & design consistency
 * Technical SEO
+
+## Android Development
+
+* Utility-focused Android applications
+* Lightweight mobile UX
+* Android packaging & publishing
+* Productivity-oriented mobile tooling
 
 ## Documentation & Open Source
 
@@ -145,6 +171,18 @@ Privacy-Focused Tooling
 
   <a href="https://github.com/tiwarivishu">
     <img src="https://img.shields.io/badge/GitHub-tiwarivishu-0B0D10?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://play.google.com/store/apps/dev?id=8100166166179522255">
+    <img src="https://img.shields.io/badge/Google_Play-Developer_Profile-00B2FF?style=for-the-badge&logo=google-play">
+  </a>
+
+  <a href="https://github.com/shrtx">
+    <img src="https://img.shields.io/badge/GitHub_Org-SHRTX-0B0D10?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://github.com/vishwanathtec">
+    <img src="https://img.shields.io/badge/GitHub_Org-VISHWANATHTEC-0B0D10?style=for-the-badge&logo=github">
   </a>
 
   <a href="mailto:contact@shrtx.in">
